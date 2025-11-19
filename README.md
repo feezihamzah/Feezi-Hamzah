@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Feezi 👋</h1>
+<h1 align="center">Hi, I'm Feezi Hamzah👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Feezi-Hamzah&style=flat-square" />
@@ -25,7 +25,7 @@ I love creating clean, scalable web applications and expanding my skills into **
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,react,js,html,css,bootstrap,mysql,vscode,git,github,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,bootstrap,mysql,vscode,git,github,postman,npm" />
 </p>
 
 ---
@@ -58,45 +58,3 @@ I love creating clean, scalable web applications and expanding my skills into **
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Feezi-Hamzah/Feezi-Hamzah/output/github-contribution-grid-snake.svg" />
-</p>
-
-> (*Note: You need to enable GitHub Actions to auto-generate this snake. I can help you set it up.*)
-
----
-
-## 📂 Featured Projects
-
-### 🔐 **CodeIgniter Login System**
-Secure login, reset password, email OTP, token-based validation  
-➡️ *Add repo link here*
-
-### 📚 **React Quiz App**
-Animations, timer, score leaderboard, responsive UI  
-➡️ *Add repo link here*
-
-### 📊 **Exam Enrollment System (PHP)**
-Schedules, summary, API calls, payment flow  
-➡️ *Add repo link here*
-
----
-
-## 🗂️ Project Cards (Optional)
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Feezi-Hamzah&repo=YOUR_REPO&theme=github_dark" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Feezi-Hamzah&repo=YOUR_REPO&theme=github_dark" /></a>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: *your-email@example.com*  
-- 🔗 LinkedIn: *your LinkedIn URL*  
-
----
-
-<p align="center">⭐ If you like my profile, feel free to star my repositories!</p>
