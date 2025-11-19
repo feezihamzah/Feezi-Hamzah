@@ -36,25 +36,4 @@ I love creating clean, scalable web applications and expanding my skills into **
 - 🔧 API development  
 - 🎨 UI components & React enhancements  
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Feezi-Hamzah&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Feezi-Hamzah&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feezi-Hamzah&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Feezi-Hamzah&theme=github-dark&hide_border=true">
-</p>
-
----
 
